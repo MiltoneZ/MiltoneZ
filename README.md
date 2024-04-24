@@ -1,10 +1,6 @@
-<img align="right" height="200" src="https://media.giphy.com/media/Um4xbb9aZQ5dSvC5au/giphy.gif?cid=ecf05e47mf9ongd36ch65k79dkogrejn5dkwnxu0ouw0h3ac&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiltoneZ&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiltoneZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiltoneZ&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiltoneZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
